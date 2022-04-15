@@ -1,0 +1,33 @@
+.formbox{
+    width: 800px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: rgb(204, 219, 233);
+    padding: 20px 20px 20px 20px;
+    box-shadow: 20px 20px rgb(103, 101, 101);
+}
+
+#products{
+    margin: 70px 30px 30px 70px ;
+}
+.submit{
+    border-radius: 10px;
+}
+.delbtn{
+    margin-top: 10px;
+    width: 18rem;
+    background-color: rgb(239, 30, 30);
+}
+
+#our{
+    padding-top:30px;
+    text-align: center;
+    
+}
+
+hr{
+    margin-top: 30px;
+    background-color: black;
+
+}
