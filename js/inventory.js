@@ -34,7 +34,7 @@ function productdisplay() {
                             <h5 class="card-title">${productName.value}</h5>
                             <p class="card-text">${productdescription.value}</p>
                             <br />
-                            <p><strong>Price: $</strong> ${addprice.value}</p>
+                            <p><strong>Price: $ ${addprice.value}</strong></p>
                             
                         </div>
                         
