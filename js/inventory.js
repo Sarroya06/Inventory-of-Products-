@@ -30,8 +30,8 @@ function productdisplay() {
                     <div class="card bg-dark" style="width: 18rem;">
                         <img class="card-img-top" src=${addimage.value} alt="Product Image">
                         </div>
-                        <div class="card-body text-black">
-                            <h5 class="card-title">${productName.value}</h5>
+                        <div class="card-body text-black" style="width: 18rem;>
+                            <h5 class="card-title"><strong>${productName.value}</strong></h5>
                             <p class="card-text">${productdescription.value}</p>
                             <br />
                             <p><strong>Price: $ ${addprice.value}</strong></p>
